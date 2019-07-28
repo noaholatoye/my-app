@@ -1,12 +1,12 @@
 /* All Css Here */
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
-@import "/assets/css/plugins.css";
-@import "/assets/scss/3dtransform.css";
-@import "/assets/scss/style.css";
+@import "./assets/css/plugins.css";
+@import "./assets/scss/3dtransform.css";
+@import "./assets/scss/style.css";
 
 /* Portfolio */
-@import "/assets/css/portfolio/style.css";
+@import "./assets/css/portfolio/style.css";
 a {
 	color: var(--main-bg-color);
 	text-decoration: none;
